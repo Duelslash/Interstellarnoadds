@@ -450,19 +450,6 @@
     "image": "/assets/media/icons/gba.png",
     "categories": ["all", "emu"]
   },
-
-  {
-    "name": "GPTZero.me",
-    "link": "https://gptzero.me/",
-    "image": "/assets/media/icons/gz.webp",
-    "categories": ["all", "ad"]
-  },
-  {
-    "name": "ZeroGPT.com",
-    "link": "https://www.zerogpt.com/",
-    "image": "/assets/media/icons/zg.webp",
-    "categories": ["all", "ad"]
-  },
   {
     "name": "ChatGPT",
     "link": "https://chat.openai.com",
@@ -470,36 +457,6 @@
     "categories": ["all", "ai"],
     "error": "true",
     "say": "You must have a ChatGPT account to use the site, also the site may have some issues if you don't minimize tabs while using it."
-  },
-  {
-    "name": "CopyLeaks.com",
-    "link": "https://copyleaks.com/ai-content-detector",
-    "image": "/assets/media/icons/cl.jpg",
-    "categories": ["all", "ad"]
-  },
-  {
-    "name": "Writer.com",
-    "link": "https://writer.com/ai-content-detector/",
-    "image": "/assets/media/icons/wr.png",
-    "categories": ["all", "ad"]
-  },
-  {
-    "name": "Quillbot.com AI Detector",
-    "link": "https://quillbot.com/ai-content-detector",
-    "image": "/assets/media/icons/qb.jpg",
-    "categories": ["all", "ad"]
-  },
-  {
-    "name": "Kome.ai YouTube Transcript",
-    "link": "https://kome.ai/tools/youtube-transcript-generator",
-    "image": "/assets/media/icons/km.webp",
-    "categories": ["all", "ts"]
-  },
-  {
-    "name": "NoteGPT.io YouTube Transcript",
-    "link": "https://notegpt.io/youtube-transcript-generator",
-    "image": "/assets/media/icons/ng.jpg",
-    "categories": ["all", "ts"]
   },
   {
     "name": "Grammarly Plagiarism Checker",
